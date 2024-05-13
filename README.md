@@ -53,7 +53,7 @@ endmodule
 ![image](https://github.com/Sornakumar16/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138849327/652a1993-8743-440a-a157-2982f8d2999b)
 
 
-**TIMING DIGRAMS FOR SISO Shift Register**
+**TIMING DIGRAMS FOR SISO Shift Register** 
 ![image](https://github.com/Sornakumar16/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138849327/13d39a45-ff52-4300-96b0-9f7a325dba2d)
 
 
