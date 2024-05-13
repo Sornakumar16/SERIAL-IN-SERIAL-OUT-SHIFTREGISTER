@@ -44,13 +44,14 @@ q[2] <= q[1];
 q[3] <= q[2];
 end
 endmodule
-
+```
 
 
 
 
 **RTL LOGIC FOR SISO Shift Register**
-![image](https://github.com/Sornakumar16/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/138849327/652a1993-8743-440a-a157-2982f8d2999b)
+
+![Uploading image.png…]()
 
 
 **TIMING DIGRAMS FOR SISO Shift Register** 
